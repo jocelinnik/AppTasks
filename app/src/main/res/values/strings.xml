@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gerenciador de Tarefas</string>
+    <string name="action_delete">Deletar todas</string>
+</resources>
